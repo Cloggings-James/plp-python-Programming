@@ -1,4 +1,3 @@
-```python
 my_list = []
 
 # Append elements to the list
@@ -18,12 +17,4 @@ my_list.sort()
 
 # Find and print the index of the value 30
 print(my_list.index(30))
-```
 
-This code will output:
-
-```
-3
-```
-
-This means that the value 30 is located at index 3 in the sorted list.
