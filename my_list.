@@ -1,0 +1,29 @@
+```python
+my_list = []
+
+# Append elements to the list
+my_list.extend([10, 20, 30, 40])
+
+# Insert an element at the second position
+my_list.insert(1, 15)
+
+# Extend the list with another list
+my_list.extend([50, 60, 70])
+
+# Remove the last element from the list
+my_list.pop()
+
+# Sort the list in ascending order
+my_list.sort()
+
+# Find and print the index of the value 30
+print(my_list.index(30))
+```
+
+This code will output:
+
+```
+3
+```
+
+This means that the value 30 is located at index 3 in the sorted list.
